@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\pbl3\\views\\landlordform\\informanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|c:\\users\\admin\\documents\\net\\pbl3_du-an-cnpm\\pbl3\\pbl3\\views\\landlordform\\informanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\views\\landlordform\\informanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|c:\\users\\admin\\documents\\net\\pbl3_du-an-cnpm\\pbl3\\pbl3\\views\\adminform\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\pbl3\\views\\adminform\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\views\\adminform\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|c:\\users\\admin\\documents\\net\\pbl3_du-an-cnpm\\pbl3\\pbl3\\views\\adminform\\informanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\pbl3\\views\\adminform\\informanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\views\\adminform\\informanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\views\\adminform\\adminhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|c:\\users\\admin\\documents\\net\\pbl3_du-an-cnpm\\pbl3\\pbl3\\views\\adminform\\informanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\pbl3\\views\\adminform\\informanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\views\\adminform\\informanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -109,8 +109,7 @@
               "ToolTip": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\AdminForm\\UserManagementForm.cs [Design]",
               "RelativeToolTip": "PBL3\\Views\\AdminForm\\UserManagementForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:06:58.559Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-05T11:06:58.559Z"
             },
             {
               "$type": "Document",
@@ -122,8 +121,7 @@
               "RelativeToolTip": "PBL3\\Views\\AdminForm\\InforManagementForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:05:01.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T11:05:01.727Z"
             },
             {
               "$type": "Document",
@@ -134,8 +132,7 @@
               "ToolTip": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\AdminForm\\InforManagementForm.cs [Design]",
               "RelativeToolTip": "PBL3\\Views\\AdminForm\\InforManagementForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T10:57:59.521Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-05T10:57:59.521Z"
             },
             {
               "$type": "Document",
@@ -147,8 +144,7 @@
               "RelativeToolTip": "PBL3\\packages.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-05T10:55:35.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T10:55:35.685Z"
             },
             {
               "$type": "Document",
@@ -207,8 +203,7 @@
               "RelativeToolTip": "PBL3\\Views\\CustomComponent\\CustomHouseInforComponent.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T14:00:07.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T14:00:07.117Z"
             },
             {
               "$type": "Document",
@@ -266,8 +261,7 @@
               "ToolTip": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\AdminForm\\AdminHomeForm.cs [Design]",
               "RelativeToolTip": "PBL3\\Views\\AdminForm\\AdminHomeForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T07:12:30.447Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-05T07:12:30.447Z"
             },
             {
               "$type": "Document",
