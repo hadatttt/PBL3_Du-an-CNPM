@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|c:\\users\\admin\\documents\\net\\pbl3_du-an-cnpm\\pbl3\\pbl3\\views\\commonform\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\views\\commonform\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|c:\\users\\admin\\documents\\net\\pbl3_du-an-cnpm\\pbl3\\pbl3\\views\\customcomponent\\customhouseinforcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\views\\customcomponent\\customhouseinforcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|c:\\users\\admin\\documents\\net\\pbl3_du-an-cnpm\\pbl3\\pbl3\\views\\customcomponent\\customhouseinforcomponent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\views\\customcomponent\\customhouseinforcomponent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|c:\\users\\admin\\documents\\net\\pbl3_du-an-cnpm\\pbl3\\pbl3\\views\\customcomponent\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\views\\customcomponent\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|c:\\users\\admin\\documents\\net\\pbl3_du-an-cnpm\\pbl3\\pbl3\\views\\customcomponent\\customhouseinforcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\views\\customcomponent\\customhouseinforcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|c:\\users\\admin\\documents\\net\\pbl3_du-an-cnpm\\pbl3\\pbl3\\views\\customcomponent\\customdatetimepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\views\\customcomponent\\customdatetimepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|c:\\users\\admin\\documents\\net\\pbl3_du-an-cnpm\\pbl3\\pbl3\\views\\customcomponent\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\views\\customcomponent\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\pbl3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|c:\\users\\admin\\documents\\net\\pbl3_du-an-cnpm\\pbl3\\pbl3\\views\\commonform\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\views\\commonform\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\pbl3\\views\\customcomponent\\customradiobutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\views\\customcomponent\\customradiobutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\pbl3\\views\\commonform\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FA34A9F-615B-435F-83F6-8AF3BC7F0A40}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\views\\commonform\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CommonForm\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "PBL3\\Views\\CommonForm\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CommonForm\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "PBL3\\Views\\CommonForm\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:03:27.65Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomHouseInforComponent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CustomComponent\\CustomHouseInforComponent.Designer.cs",
+              "RelativeDocumentMoniker": "PBL3\\Views\\CustomComponent\\CustomHouseInforComponent.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CustomComponent\\CustomHouseInforComponent.Designer.cs",
+              "RelativeToolTip": "PBL3\\Views\\CustomComponent\\CustomHouseInforComponent.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:00:07.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomHouseInforComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CustomComponent\\CustomHouseInforComponent.cs",
+              "RelativeDocumentMoniker": "PBL3\\Views\\CustomComponent\\CustomHouseInforComponent.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CustomComponent\\CustomHouseInforComponent.cs",
+              "RelativeToolTip": "PBL3\\Views\\CustomComponent\\CustomHouseInforComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:00:13.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomButton.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CustomComponent\\CustomButton.cs",
+              "RelativeDocumentMoniker": "PBL3\\Views\\CustomComponent\\CustomButton.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CustomComponent\\CustomButton.cs [Design]",
+              "RelativeToolTip": "PBL3\\Views\\CustomComponent\\CustomButton.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:08:27.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomHouseInforComponent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CustomComponent\\CustomHouseInforComponent.cs",
+              "RelativeDocumentMoniker": "PBL3\\Views\\CustomComponent\\CustomHouseInforComponent.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CustomComponent\\CustomHouseInforComponent.cs [Design]",
+              "RelativeToolTip": "PBL3\\Views\\CustomComponent\\CustomHouseInforComponent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:00:04.908Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomDateTimePicker.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CustomComponent\\CustomDateTimePicker.cs",
+              "RelativeDocumentMoniker": "PBL3\\Views\\CustomComponent\\CustomDateTimePicker.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CustomComponent\\CustomDateTimePicker.cs [Design]",
+              "RelativeToolTip": "PBL3\\Views\\CustomComponent\\CustomDateTimePicker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:05:03.367Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomTextBox.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CustomComponent\\CustomTextBox.cs",
+              "RelativeDocumentMoniker": "PBL3\\Views\\CustomComponent\\CustomTextBox.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CustomComponent\\CustomTextBox.cs",
+              "RelativeToolTip": "PBL3\\Views\\CustomComponent\\CustomTextBox.cs",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAUwAkBAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:02:06.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Program.cs",
+              "RelativeDocumentMoniker": "PBL3\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Program.cs",
+              "RelativeToolTip": "PBL3\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:26:32.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CommonForm\\HomeForm.cs",
+              "RelativeDocumentMoniker": "PBL3\\Views\\CommonForm\\HomeForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CommonForm\\HomeForm.cs [Design]",
+              "RelativeToolTip": "PBL3\\Views\\CommonForm\\HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:26:32.303Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomRadioButton.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CustomComponent\\CustomRadioButton.cs",
+              "RelativeDocumentMoniker": "PBL3\\Views\\CustomComponent\\CustomRadioButton.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CustomComponent\\CustomRadioButton.cs",
+              "RelativeToolTip": "PBL3\\Views\\CustomComponent\\CustomRadioButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2024-05-04T11:26:32.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignupForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\net\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CommonForm\\SignupForm.cs",
+              "RelativeDocumentMoniker": "PBL3\\Views\\CommonForm\\SignupForm.cs",
+              "ToolTip": "D:\\IT\\GIT\\PBL3_Du-an-CNPM\\PBL3\\PBL3\\Views\\CommonForm\\SignupForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-04T11:26:32.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
