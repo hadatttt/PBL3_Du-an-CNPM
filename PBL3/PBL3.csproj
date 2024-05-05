@@ -133,9 +133,6 @@
     <Compile Include="Views\CustomComponent\CustomComboBox.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Views\CustomComponent\CustomComboBox.Designer.cs">
-      <DependentUpon>CustomComboBox.cs</DependentUpon>
-    </Compile>
     <Compile Include="Views\CustomComponent\CustomComment.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -212,17 +209,38 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Views\AdminForm\InforManagementForm.resx">
+      <DependentUpon>InforManagementForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\AdminForm\UserManagementForm.resx">
+      <DependentUpon>UserManagementForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\CommonForm\DashboardForm.resx">
       <DependentUpon>DashboardForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\CommonForm\HomeForm.resx">
       <DependentUpon>HomeForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\CommonForm\PromptDialogForm.resx">
+      <DependentUpon>PromptDialogForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\CommonForm\SignupForm.resx">
       <DependentUpon>SignupForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\CommonForm\UserInforForm.resx">
+      <DependentUpon>UserInforForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\CustomComponent\CustomComboBox.resx">
+      <DependentUpon>CustomComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\CustomComponent\CustomHouseInforComponent.resx">
+      <DependentUpon>CustomHouseInforComponent.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\CustomComponent\CustomTextbox.resx">
       <DependentUpon>CustomTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\LandlordForm\InforManagementForm.resx">
+      <DependentUpon>InforManagementForm.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -248,6 +266,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Images\background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconaddress.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\searchicon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-admin.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

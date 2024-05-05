@@ -27,3 +27,10 @@ C:\Users\Admin\Documents\net\PBL3_Du-an-CNPM\PBL3\PBL3\obj\Debug\PBL3.csproj.Cor
 C:\Users\Admin\Documents\net\PBL3_Du-an-CNPM\PBL3\PBL3\obj\Debug\PBL3.csproj.Up2Date
 C:\Users\Admin\Documents\net\PBL3_Du-an-CNPM\PBL3\PBL3\obj\Debug\PBL3.exe
 C:\Users\Admin\Documents\net\PBL3_Du-an-CNPM\PBL3\PBL3\obj\Debug\PBL3.pdb
+C:\Users\Admin\Documents\net\PBL3_Du-an-CNPM\PBL3\PBL3\obj\Debug\PBL3.Views.CustomComponent.CustomHouseInforComponent.resources
+C:\Users\Admin\Documents\net\PBL3_Du-an-CNPM\PBL3\PBL3\obj\Debug\PBL3.Views.CustomComponent.CustomComboBox.resources
+C:\Users\Admin\Documents\net\PBL3_Du-an-CNPM\PBL3\PBL3\obj\Debug\PBL3.Views.AdminForm.InforManagementForm.resources
+C:\Users\Admin\Documents\net\PBL3_Du-an-CNPM\PBL3\PBL3\obj\Debug\PBL3.Views.AdminForm.UserManagementForm.resources
+C:\Users\Admin\Documents\net\PBL3_Du-an-CNPM\PBL3\PBL3\obj\Debug\PBL3.Views.CommonForm.PromptDialogForm.resources
+C:\Users\Admin\Documents\net\PBL3_Du-an-CNPM\PBL3\PBL3\obj\Debug\PBL3.Views.CommonForm.UserInforForm.resources
+C:\Users\Admin\Documents\net\PBL3_Du-an-CNPM\PBL3\PBL3\obj\Debug\PBL3.Views.LandlordForm.InforManagementForm.resources

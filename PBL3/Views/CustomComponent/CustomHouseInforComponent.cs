@@ -90,5 +90,15 @@ namespace PBL3.Views.CustomComponent
         {
 
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void iconPictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

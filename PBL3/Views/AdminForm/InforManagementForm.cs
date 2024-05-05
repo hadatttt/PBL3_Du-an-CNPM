@@ -16,5 +16,20 @@ namespace PBL3.Views.AdminForm
         {
             InitializeComponent();
         }
+
+        private void informationManagementBtn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void MessageBtn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

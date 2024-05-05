@@ -21,5 +21,20 @@ namespace PBL3.Views.CommonForm
         {
 
         }
+
+        private void customTextBox1__TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void DashboardForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void customButton2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
